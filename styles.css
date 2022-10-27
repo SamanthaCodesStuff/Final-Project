@@ -1,0 +1,67 @@
+#opT {
+    color:white;
+    background-color: red;
+}
+
+.NEXT_icon {
+    position: relative;
+    top: 30px;
+}
+
+
+.PREV_icon {
+    position: relative;
+    left: 30px;
+}
+
+.paragraph {
+    font-size: x-large;
+}
+
+#tpT {
+    color:white;
+    background-color:orange;
+}
+
+.tc {
+    position: relative;
+    left: 735px;
+    color: white;
+    background-color: red;
+}
+#tdpT {
+    color:white;
+    background-color: #FEDD00;
+}
+
+table {
+    width: 600px;
+}
+
+th {
+    text-align: left;
+}
+
+table, td, td {
+    border: 1px solid grey;
+    border-width: 2px;
+}
+
+tr:nth-child(even) {
+    background-color: #ddd;
+}
+
+#fpT {
+    color: white;
+    background-color: greenyellow; 
+}
+
+#fipT {
+    color:white;
+    background-color: blue;
+}
+
+#spT {
+    color: white;
+    background-color: indigo;
+}
